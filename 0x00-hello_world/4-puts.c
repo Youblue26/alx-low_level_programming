@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point of the program
- *
+ * main - Entry poit
  * Description: This program prints a message to the console.
- * Return: 0 to indicate successful execution.
+ * Return: always 0 (success)
  */
 int main(void)
 {
