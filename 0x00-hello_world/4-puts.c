@@ -1,10 +1,13 @@
 #include <stdio.h>
+
 /**
-*main - entry poit
-*return: always 0 (success)
-*/
+ * main - Entry point of the program
+ *
+ * Description: This program prints a message to the console.
+ * Return: 0 to indicate successful execution.
+ */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+printf("Programming is like building a multilingual puzzle\n");
 return (0);
 }
