@@ -5,8 +5,6 @@
 * Return: 0
 */
 
-void positive_or_negative(int num);
-
 int main(void)
 {
 int i;
