@@ -1,5 +1,3 @@
-100-is_palindrome.c
-
 #include "main.h"
 
 int check_pal(char *s, int i, int len);
